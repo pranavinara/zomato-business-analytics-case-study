@@ -1,5 +1,5 @@
 # Zomato-Data-Analysis
-Business analytics project analyzing Zomato dataset to extract insights on customer behavior, pricing, and restaurant performance
+This project performs an end-to-end exploratory data analysis (EDA) on Zomato restaurant data to uncover patterns in customer behavior, pricing, and restaurant performance, and translate them into actionable business insights.
 # 📌 Zomato Business Analytics Case Study
 
 ## 🏢 Company
@@ -94,7 +94,24 @@ To ensure accuracy and credibility:
 * No assumptions or fabricated numerical values were introduced
 * Observations were cross-validated using logical reasoning
 * Analysis focuses on realistic and practical business scenarios
-* Data limitations were acknowledged wherever applicable
+* Data limitations were acknowledged wherever applicabl
+
+---
+
+## 🚀 Business Impact
+
+This analysis can help Zomato:
+- Improve restaurant recommendations using rating and vote patterns  
+- Optimize delivery operations in high-demand locations  
+- Identify pricing trends to design better offers  
+- Enhance customer satisfaction by addressing low-rated segments  
+
+---
+## ⚠️ Limitations
+
+- Dataset may not represent real-time Zomato data  
+- Some features like delivery time or user-level behavior are not available  
+- Analysis is limited to available columns and may not capture full business complexity
 
 ---
 
